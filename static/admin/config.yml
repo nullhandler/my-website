@@ -33,43 +33,6 @@ collections:
         widget: "boolean"
         default: true
 
-      - label: "Categories"
-        name: "categories"
-        required: false
-        widget: "list"
-
-      - label: "Tags"
-        name: "tags"
-        required: false
-        widget: "list"
-
-      - label: "Keywords"
-        name: "keywords"
-        required: false
-        widget: "list"
-
-      - label: "Auto Thumbnail Image"
-        name: "autoThumbnailImage"
-        required: false
-        widget: "boolean"
-        default: true
-
-      - label: "Thumbnail Image Position"
-        name: "thumbnailImagePosition"
-        required: false
-        widget: "select"
-        options: ["left", "top", "right"]
-
-      - label: "Thumbnail Image"
-        name: "thumbnailImage"
-        required: false
-        widget: "image"
-
-      - label: "Cover Image"
-        name: "coverImage"
-        required: false
-        widget: "image"
-
       - label: "Body"
         name: "body"
         widget: "markdown"
