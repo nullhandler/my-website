@@ -1,6 +1,6 @@
 ---
-date = "2018-05-05"
-title = "Hello World!"
+date: "2018-05-05"
+title: "Hello World!"
 ---
 Hello people,
 	For the past month, I have been thinking about starting a blog.
