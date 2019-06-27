@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peratchiselvan (Selva)</title>
+    <link>https://selvasoft.in/</link>
+    <description>Recent content on Peratchiselvan (Selva)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Apr 2019 12:35:43 +0530</lastBuildDate>
+    
+	<atom:link href="https://selvasoft.in/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Best Python Script I Ever Created</title>
+      <link>https://selvasoft.in/posts/best-python-script-i-ever-created/</link>
+      <pubDate>Thu, 11 Apr 2019 12:35:43 +0530</pubDate>
+      
+      <guid>https://selvasoft.in/posts/best-python-script-i-ever-created/</guid>
+      <description>After my first semester exams in college (Computer Science Engineering, of course!) was over, we got the results.
+Fortunately, I got good marks. I eagerly wanted to know what my rank was.
+But, I didn’t want to ask each and every person to about their score. We studied Python in our first semester (But I knew python before it) .
+So, I thought like to make a python script to scrape all the grades and CGPA of my classmates.</description>
+    </item>
+    
+    <item>
+      <title>Creating Command Line Torrent Searcher</title>
+      <link>https://selvasoft.in/posts/creating-command-line-torrent-searcher/</link>
+      <pubDate>Mon, 01 Apr 2019 13:01:07 +0530</pubDate>
+      
+      <guid>https://selvasoft.in/posts/creating-command-line-torrent-searcher/</guid>
+      <description>Its been difficult to search torrents in the web these days. So, I planned to create a torrent searching script using python. First of all, we need asource to scrap the torrents.
+I use the following torrent websites:
+ The Pirate Bay snowfl Skytorrents  Review The Pirate Bay proxies are banned pretty quickly. So, its waste to use them.
+Snowfl is great since that website itself scraps torrents from tpb and 1337x etc&amp;hellip; But there is no way to provide search arguments in the url.</description>
+    </item>
+    
+    <item>
+      <title>How I Escaped From Mass Surveilance</title>
+      <link>https://selvasoft.in/posts/how-i-escaped-from-mass-surveilance/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://selvasoft.in/posts/how-i-escaped-from-mass-surveilance/</guid>
+      <description>Hello guys,
+Do you guys wonder how much data corporations collect from us? I wondered about it so many times. How can anyone still give informations after knowing what anyone can do with that informations. In this post I am gonna show you how I escaped mass surveilance.
+Social Network Most of you guys put everything in social network. Thats not a good practice. You are giving every information to a stalker.</description>
+    </item>
+    
+    <item>
+      <title>Kula chat</title>
+      <link>https://selvasoft.in/posts/kula-chat/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://selvasoft.in/posts/kula-chat/</guid>
+      <description>Hello guys, I started to develop a open source client for telegram. It is available at gitlab link Lets see how to build the app.
+Prerequisite  Download the prebuilt android library tdlib from this link Unzip the file into Kula-Chat root folder. Also you have to install android NDK.  Build instructions  You have to update the apiID and apiHASH in the MainActivity.java in both here and here  Hope you guys like it.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://selvasoft.in/posts/hello/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://selvasoft.in/posts/hello/</guid>
+      <description>Hello people, For the past month, I have been thinking about starting a blog. I wanted to have full customization. So, I didn&amp;rsquo;t chose wordpress or blogger or any other corporate website creator. Remaining option is Static Site Generator. I searched for the best SSG. I seen Jekyll. But, Hugo seems to have more customization like JSON output,RSS feed etc. Which are needed because I planned to create an app for this blog.</description>
+    </item>
+    
+    <item>
+      <title>About Selva</title>
+      <link>https://selvasoft.in/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://selvasoft.in/about/</guid>
+      <description>I&amp;rsquo;m Selva, an App Developer. I love Computers, Arch linux and Softwares. I do python scripts to automate things. I love to do apps using flutter. Have a look at some of my awesome projects.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://selvasoft.in/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://selvasoft.in/projects/</guid>
+      <description> SaAsh Calculator - I developed this beautiful and function rich calculator app for SaAsh Technologies Vaguparai - I developed this beautiful and perfect app for the Vaguparai website DistroHop - As it is my first project, I worked hard for it. Learnt about RecyclerView etc&amp;hellip; Kula Chat (In Development)(Help needed) - An open source telegram client for android created using tdlib library iSurf - I created this web browser to escape myself from ads and trackers  </description>
+    </item>
+    
+  </channel>
+</rss>

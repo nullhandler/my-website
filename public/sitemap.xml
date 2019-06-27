@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://selvasoft.in/posts/best-python-script-i-ever-created/</loc>
+    <lastmod>2019-04-11T12:35:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://selvasoft.in/</loc>
+    <lastmod>2019-04-11T12:35:43+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://selvasoft.in/posts/</loc>
+    <lastmod>2019-04-11T12:35:43+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://selvasoft.in/posts/creating-command-line-torrent-searcher/</loc>
+    <lastmod>2019-04-01T13:01:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://selvasoft.in/posts/how-i-escaped-from-mass-surveilance/</loc>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://selvasoft.in/posts/kula-chat/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://selvasoft.in/posts/hello/</loc>
+    <lastmod>2018-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://selvasoft.in/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://selvasoft.in/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://selvasoft.in/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
