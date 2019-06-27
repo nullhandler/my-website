@@ -1,7 +1,7 @@
-+++
+---
 date = "2018-05-05"
 title = "Hello World!"
-+++
+---
 Hello people,
 	For the past month, I have been thinking about starting a blog.
 I wanted to have full customization. So, I didn't chose wordpress or blogger or any other corporate website creator.

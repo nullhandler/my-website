@@ -1,7 +1,7 @@
-+++
+---
 date = "2018-07-25"
 title = "Kula chat"
-+++
+---
 Hello guys,
 	I started to develop a open source client for telegram.
 It is available at [gitlab link](https://gitlab.com/Peratchiselvan/Kula-Chat)
