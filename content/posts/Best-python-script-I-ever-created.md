@@ -1,6 +1,6 @@
 ---
-title: "Best Python Script I Ever Created"
-date: 2019-04-11T12:35:43+05:30
+title: Best Python Script I Ever Created
+date: 2019-04-11T07:05:43.000Z
 ---
 After my first semester exams in college (Computer Science Engineering, of course!) was over, we got the results.
 
@@ -91,7 +91,3 @@ csv_file.close()
 You can see the code also in this <a href="https://github.com/Peratchiselvan/PythonProjects/blob/master/mark.py" target="_blank">github link</a>.
 
 And the most Important thing is I got the lowest mark in my python exam. I did very well. I can tell , that the teacher corrected my paper have less knowledge to understand what I wrote. :(
-
-Regards,
-
-Selva.
