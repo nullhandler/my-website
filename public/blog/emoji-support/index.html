@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://jovial-newton-c5194c.netlify.app/css/main.css">
+</head>
+
+<body>
+    <div class="topnav" id="burger">
+    <div class="nav-item"><a href="https://jovial-newton-c5194c.netlify.app/">Home</a></div>
+    <div class="topnav-right">
+        <div class="nav-item"><a href="https://jovial-newton-c5194c.netlify.app/about/">About</a></div><div class="nav-item"><a href="https://jovial-newton-c5194c.netlify.app/blog/">Blog</a></div><div class="nav-item"><a href="https://jovial-newton-c5194c.netlify.app/projects/">Projects</a></div>
+    </div>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <svg height="20" width="20" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bars" class="svg-inline--fa fa-bars fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"></path></svg>
+    </a>
+</div>
+    
+    <div class="container">
+        <main id="main">
+            
+
+<h1>Emoji Support</h1>
+<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
+<p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
+<p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site’s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
+<!-- raw HTML omitted -->
+<p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
+<hr>
+<p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">.emoji {
+font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
+}</code></pre></div>
+<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="ns25lbRN" data-limit="5"></script>
+<footer class="footero">© Selva 2020 <br>Made with ❤ by Selva</footer>
+
+
+        </main>
+    </div>
+    <script>
+  function myFunction() {
+    var x = document.getElementById("burger");
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    } else {
+      x.className = "topnav";
+    }
+  }
+</script>
+</body>
+
+</html>

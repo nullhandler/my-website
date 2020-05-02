@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on Papaya</title>
+    <link>https://jovial-newton-c5194c.netlify.app/tags/index/</link>
+    <description>Recent content in index on Papaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+        <atom:link href="https://jovial-newton-c5194c.netlify.app/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://jovial-newton-c5194c.netlify.app/blog/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jovial-newton-c5194c.netlify.app/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,0 @@
-/tel https://web.telegram.org 200
-/tel/* https://web.telegram.org/:splat 200
-https://tg.selvasoft.in/ https://web.telegram.org 200
-https://tg.selvasoft.in/* https://web.telegram.org/:splat 200
-/movies/* https://yts.lt/api/v2/:splat 200
-https://selvasoft.in/assets/* https://yts.lt/assets/:splat 200
-https://selvasoft.in/torrent/* https://yts.lt/torrent/:splat 200

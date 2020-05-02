@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    min-height:100%;
+}
+.topnav {
+    padding-left: 20%;
+    padding-right: 20%;
+    overflow: hidden;
+}
+.nav-item{
+    display: inline-block;
+    padding: 20px 16px 20px 0px;
+}
+.topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+    color: #0288D1;
+}
+.topnav-right {
+    float: right;
+}
+.topnav a.icon{
+    display: none;
+}
+.center a{
+    color: black;
+}
+.center h1{
+    margin: 0px;
+}
+.avatar {
+    border-radius: 50%;
+}
+.name {
+    font-size: 30px;
+}
+.container{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.posts{
+    list-style: none;
+    padding: 0px;
+}
+.posts a{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+.posts a:hover{
+    color: #0288D1;
+}
+.footero{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: rgb(248,10,149);
+}
+@media screen and (max-width: 600px) {
+    .container{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .topnav {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .topnav div:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+      margin-top: 20px;
+    }
+    .topnav.responsive {position: relative;}
+    .topnav.responsive .icon {
+      position: absolute;
+      right: 20px;
+      top: 0;
+    }
+    .topnav.responsive div {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    .center {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        text-align: center;
+    }
+    .posts li{
+        margin: 10px 0px;
+    }
+    .posts span {
+        display: block;
+    }
+    .footer1{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        text-align: center;
+        color: rgb(248,10,149);
+    }
+}
+@media not all and (max-width: 600px) {
+    .dates{
+        float: left;
+        width: 100px;
+        text-align: right;
+        margin-right: 30px;
+    }
+    .center {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        text-align: center;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }
+    .footer1{
+        position: absolute;
+        bottom: 0;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        text-align: center;
+        color: rgb(248,10,149);
+    }
+}

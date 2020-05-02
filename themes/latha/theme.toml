@@ -1,0 +1,10 @@
+name = "latha"
+description = "Awesome minimal theme for my blog"
+homepage = "https://selvasoft.in"
+tags = ["blog"]
+features = ["minimalist", "social", "analytics"]
+min_version = "0.10"
+
+[author]
+  name = "Selva"
+  homepage = "https://selvasoft.in"

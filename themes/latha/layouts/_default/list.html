@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+<ul class="posts">
+{{ range .Pages.ByPublishDate.Reverse }}
+    {{ $dateFormat := .Date.Format "Jan 2, 2006" | default "Jan 2, 2006" }}
+    <li><span class="dates">{{ $dateFormat }}</span> <a href="{{ .RelPermalink }}"><span>{{ .Title }}</span></a> </li>
+{{ end }}
+</ul>
+<footer class="footer1">© Selva {{ now.Format "2006" }} <br>Made with <span class="blinkme">❤</span> by Selva</footer>
+
+{{ end }}

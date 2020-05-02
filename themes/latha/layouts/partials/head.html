@@ -1,0 +1,7 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ $options := (dict "targetPath" "prism.css" "outputStyle" "compressed" "enableSourceMap" true) }}
+    {{ $style := resources.Get "scss/_prism.scss" | resources.ToCSS $options | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+</head>

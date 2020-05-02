@@ -1,86 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peratchiselvan (Selva)</title>
-    <link>https://selvasoft.in/</link>
-    <description>Recent content on Peratchiselvan (Selva)</description>
+    <title>Papaya</title>
+    <link>https://jovial-newton-c5194c.netlify.app/</link>
+    <description>Recent content on Papaya</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 11 Apr 2019 12:35:43 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://selvasoft.in/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://jovial-newton-c5194c.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Best Python Script I Ever Created</title>
-      <link>https://selvasoft.in/posts/best-python-script-i-ever-created/</link>
-      <pubDate>Thu, 11 Apr 2019 12:35:43 +0530</pubDate>
+      <title>Posts</title>
+      <link>https://jovial-newton-c5194c.netlify.app/blog/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://selvasoft.in/posts/best-python-script-i-ever-created/</guid>
-      <description>After my first semester exams in college (Computer Science Engineering, of course!) was over, we got the results.
-Fortunately, I got good marks. I eagerly wanted to know what my rank was.
-But, I didn’t want to ask each and every person to about their score. We studied Python in our first semester (But I knew python before it) .
-So, I thought like to make a python script to scrape all the grades and CGPA of my classmates.</description>
+      <guid>https://jovial-newton-c5194c.netlify.app/blog/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Creating Command Line Torrent Searcher</title>
-      <link>https://selvasoft.in/posts/creating-command-line-torrent-searcher/</link>
-      <pubDate>Mon, 01 Apr 2019 13:01:07 +0530</pubDate>
+      <title>About</title>
+      <link>https://jovial-newton-c5194c.netlify.app/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://selvasoft.in/posts/creating-command-line-torrent-searcher/</guid>
-      <description>Its been difficult to search torrents in the web these days. So, I planned to create a torrent searching script using python. First of all, we need asource to scrap the torrents.
-I use the following torrent websites:
- The Pirate Bay snowfl Skytorrents  Review The Pirate Bay proxies are banned pretty quickly. So, its waste to use them.
-Snowfl is great since that website itself scraps torrents from tpb and 1337x etc&amp;hellip; But there is no way to provide search arguments in the url.</description>
+      <guid>https://jovial-newton-c5194c.netlify.app/about/</guid>
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
+&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
+&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
+&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>How I Escaped From Mass Surveilance</title>
-      <link>https://selvasoft.in/posts/how-i-escaped-from-mass-surveilance/</link>
-      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>https://jovial-newton-c5194c.netlify.app/projects/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://selvasoft.in/posts/how-i-escaped-from-mass-surveilance/</guid>
-      <description>Hello guys,
-Do you guys wonder how much data corporations collect from us? I wondered about it so many times. How can anyone still give informations after knowing what anyone can do with that informations. In this post I am gonna show you how I escaped mass surveilance.
-Social Network Most of you guys put everything in social network. Thats not a good practice. You are giving every information to a stalker.</description>
-    </item>
-    
-    <item>
-      <title>Kula chat</title>
-      <link>https://selvasoft.in/posts/kula-chat/</link>
-      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://selvasoft.in/posts/kula-chat/</guid>
-      <description>Hello guys, I started to develop a open source client for telegram. It is available at gitlab link Lets see how to build the app.
-Prerequisite  Download the prebuilt android library tdlib from this link Unzip the file into Kula-Chat root folder. Also you have to install android NDK.  Build instructions  You have to update the apiID and apiHASH in the MainActivity.java in both here and here  Hope you guys like it.</description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://selvasoft.in/posts/hello/</link>
-      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://selvasoft.in/posts/hello/</guid>
-      <description>Hello people, For the past month, I have been thinking about starting a blog. I wanted to have full customization. So, I didn&amp;rsquo;t chose wordpress or blogger or any other corporate website creator. Remaining option is Static Site Generator. I searched for the best SSG. I seen Jekyll. But, Hugo seems to have more customization like JSON output,RSS feed etc. Which are needed because I planned to create an app for this blog.</description>
-    </item>
-    
-    <item>
-      <title>About Selva</title>
-      <link>https://selvasoft.in/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://selvasoft.in/about/</guid>
-      <description>I&amp;rsquo;m Selva, an App Developer. I love Computers, Arch linux and Softwares. I do python scripts to automate things. I love to do apps using flutter. Have a look at some of my awesome projects.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://selvasoft.in/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://selvasoft.in/projects/</guid>
-      <description> SaAsh Calculator - I developed this beautiful and function rich calculator app for SaAsh Technologies Vaguparai - I developed this beautiful and perfect app for the Vaguparai website DistroHop - As it is my first project, I worked hard for it. Learnt about RecyclerView etc&amp;hellip; Kula Chat (In Development)(Help needed) - An open source telegram client for android created using tdlib library iSurf - I created this web browser to escape myself from ads and trackers  </description>
+      <guid>https://jovial-newton-c5194c.netlify.app/projects/</guid>
+      <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
+&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yuin/goldmark&#34;&gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
+&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
+&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
