@@ -1,7 +1,7 @@
 baseURL = "https://jovial-newton-c5194c.netlify.app/"
 title = "selva"
 
-theme = "selva"
+theme = "latha"
 canonifyurls = true
 pygmentscodefences = false
 pygmentscodefencesguesssyntax = true
