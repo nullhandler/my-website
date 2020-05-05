@@ -4,4 +4,11 @@
     {{ $style := resources.Get "scss/_prism.scss" | resources.ToCSS $options | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-1679893467536722",
+        enable_page_level_ads: true
+    });
+    </script>
 </head>
