@@ -12,9 +12,8 @@ Have a look at some of my awesome [projects.](https://selvasoft.in/projects)
 Known Programming Languages:
 * Java, XML (Native Android App Dev)
 * Dart (Flutter - Cross platform)
-* Html, CSS, Javascript (Web Dev)
+* Html, CSS, Javascript (Web Dev, nodejs)
 * Python (Automation and backend - Flask, Django)
-* Php (Backend)
 * Shell script (Linux scripting - Bash)
 
 Tools:
