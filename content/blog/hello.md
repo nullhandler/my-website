@@ -11,5 +11,7 @@ I seen <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. But,
 Which are needed because I planned to create an app for this blog.
 So, lets start this wonderful Journey.
 And thanks <a href="https://gitlab.com/" target="_blank">Gitlab</a> for providing hosting free for this blog.
+### Update 2021:
+Now its hosted with netlify
 
 

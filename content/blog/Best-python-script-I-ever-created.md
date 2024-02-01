@@ -14,7 +14,7 @@ The script only needs the starting Register Number and Ending Register Number. I
 
 You can see the spread sheet in the below screenshot. (Names are blurred for privacy reasons.
 
-![image](https://qphs.fs.quoracdn.net/main-qimg-e0a9991188937aa698deb3fc2f0d91b1)
+![image](https://i.postimg.cc/1ynS3XQb/sheet.png)
 
 It was the best python script I have ever written.
 
