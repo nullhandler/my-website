@@ -7,11 +7,11 @@ slug = "projects"
 * <a href="https://play.google.com/store/apps/details?id=com.selvasoft.stonksim" target="_blank">Stonksim</a> - App to paper trade
 * <a href="https://github.com/nullhandler/go-blog" target="_blank">Go Blog</a> - Blog api written in Golang
 * <a href="https://github.com/nullhandler/alumni-interaction-app" target="_blank">Alumni Interaction System App</a> - Created this app to facilitate interaction between alumni and students
-* <a href="https://github.com/nullhandler/alumni-interaction-app" target="_blank">Alumni Interaction System Backend</a> - Created this app to facilitate interaction between alumni and students
+* <a href="https://github.com/nullhandler/alumni-interaction-backend" target="_blank">Alumni Interaction System Backend</a> - Created this app to facilitate interaction between alumni and students
 * <a href="https://github.com/nullhandler/arduino" target="_blank">Water Quality Sensing</a> - Tried to get my hands on arduino by building water quality sensing device
 * <a href="https://github.com/nullhandler/Doccure" target="_blank">Doccure</a> - Website to get doctor appointment. Created with Django and sqlite.
 * <a href="https://github.com/nullhandler/recipedia-web" target="_blank">Recipedia App</a> - Its a flutter app to interact with the recipedia api.
-* <a href="https://github.com/nullhandler/recipedia-web" target="_blank">Recipedia api</a> - Wikipedia for recipes. Created with nodejs and mongoDB.
+* <a href="https://github.com/OjasKarmarkar/Recipedia" target="_blank">Recipedia api</a> - Wikipedia for recipes. Created with nodejs and mongoDB.
 * <a href="https://selvacodes.in" target="_blank">This website</a> - open source and made with hugo ssg.
 * <a href="https://gitlab.com/Peratchiselvan/Kula-Chat" target="_blank">Kula Chat (Discontinued)</a> - An open source telegram client for android created using tdlib library
 * [Safedrive](https://github.com/nullhandler/safe-drive) - An app which will hang up the call if the user is driving **(Won first prize in Kalasalingam University's Code Wars 2018)**
