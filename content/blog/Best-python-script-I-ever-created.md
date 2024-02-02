@@ -90,7 +90,7 @@ csv_file.close()
 
 You can see the code also in this <a href="https://github.com/Peratchiselvan/PythonProjects/blob/master/mark.py" target="_blank">github link</a>.
 
-And the most Important thing is I got the lowest mark in my python exam. I did very well. I can tell , that the teacher corrected my paper have less knowledge to understand what I wrote. :(
+And the most Important thing is I got the lowest mark in my python exam. The irony...
 
 Regards,
 
